@@ -1,0 +1,11 @@
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\UnitTest.dll
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\UnitTest.pdb
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\ConsoleApplication1.exe
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\WebDriver.dll
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\WebDriver.Support.dll
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\ConsoleApplication1.pdb
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\WebDriver.xml
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\bin\Debug\WebDriver.Support.xml
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\obj\Debug\UnitTest.dll
+D:\ACOM\LocJob\Locjobs\ConsoleApplication1\UnitTest\obj\Debug\UnitTest.pdb
